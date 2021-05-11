@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas al componente GitGridItem Debe mostrar correctamente el componente 1`] = `
+<div
+  className="card animate__animated animate__backInRight"
+>
+  <img
+    alt="Hulk"
+    src="https://media2.giphy.com/media/aS8ypUweGOXMA/giphy-downsized-medium.gif?cid=a8e6cbe4ly1k6i5op9j5yom7q2yvco00nzk45ax0gb3p06tk&rid=giphy-downsized-medium.gif&ct=g"
+  />
+  <p>
+    Hulk
+  </p>
+</div>
+`;
